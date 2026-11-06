@@ -1,0 +1,19 @@
+.DS_Store
+node_modules/
+
+# Local working notes
+tasks/
+docs/
+
+
+# Deliverables written when testing workflows from the repo root
+reviews/
+reports/
+research_notes/
+intel/
+monitors/
+diligence/
+leads/
+lists/
+briefs/
+directories/
