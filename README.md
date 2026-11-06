@@ -29,9 +29,3 @@ npx skills add tavily-ai/official-workflows --skill tavily-literature-review
 The workflows call Tavily through the `tvly` CLI or the Tavily MCP server. Sign in once
 with `tvly login`, or set `TAVILY_API_KEY`. Each one installs the `tavily-ai/skills` skill it depends on the first
 time it runs, if that skill is missing.
-
-## Contributing
-
-Read [`AGENTS.md`](AGENTS.md) and the
-[authoring guide](docs/workflow-authoring.md).
-`skills/tavily-literature-review` is the reference implementation.
