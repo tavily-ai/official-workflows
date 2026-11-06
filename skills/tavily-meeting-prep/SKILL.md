@@ -5,7 +5,7 @@ description: |
 license: MIT
 metadata:
   author: tavily
-  version: "0.7.0"
+  version: "0.1.0"
   homepage: https://tavily.com
   source: https://github.com/tavily-ai/official-workflows
 allowed-tools: Bash(tvly *)
