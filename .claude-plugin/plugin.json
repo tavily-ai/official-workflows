@@ -1,0 +1,25 @@
+{
+  "name": "tavily-workflows",
+  "version": "0.1.0",
+  "description": "Finished deliverables from the web using Tavily: literature reviews, market reports, competitor analyses, diligence memos, qualified lead lists, and meeting briefs.",
+  "author": {
+    "name": "Tavily Team",
+    "email": "tavily-integrations@nebius.com",
+    "url": "https://www.tavily.com/"
+  },
+  "homepage": "https://docs.tavily.com",
+  "icon": "./assets/tavily-logo.png",
+  "privacyPolicyUrl": "https://www.tavily.com/privacy",
+  "repository": "https://github.com/tavily-ai/official-workflows",
+  "license": "MIT",
+  "keywords": [
+    "research",
+    "market-research",
+    "competitor-analysis",
+    "due-diligence",
+    "lead-generation",
+    "meeting-prep",
+    "literature-review"
+  ],
+  "dependencies": ["tavily"]
+}
