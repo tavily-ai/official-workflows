@@ -16,6 +16,21 @@ template, and the checks the output must pass.
 
 ## Install
 
+### Claude Code and Cowork
+
+The workflows ship as the `tavily-workflows` plugin in the Tavily marketplace. It
+depends on the core `tavily` plugin.
+
+```bash
+claude plugin marketplace add tavily-ai/skills
+claude plugin install tavily-workflows@tavily-plugins
+```
+
+In Cowork, add the `tavily-ai/skills` marketplace under Customize, then install
+`tavily` and `tavily-workflows` from it.
+
+### Other agents
+
 ```bash
 npx skills add tavily-ai/official-workflows
 ```
